@@ -1,1 +1,2 @@
-# udacityproject
+# Create your own image classifier
+
